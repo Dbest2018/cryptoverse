@@ -1,3 +1,13 @@
+# Overview
+
+## Screenshot
+
+![](./public/screenshot.png)
+
+## Live_site
+
+Live site: [live site](https://everythingcrypto.netlify.app)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
